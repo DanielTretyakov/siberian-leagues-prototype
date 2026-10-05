@@ -1,0 +1,2 @@
+:HL["/siberian-leagues-prototype/_next/static/chunks/3h5440ergjb1l.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"_OO63c61aLKitWkOWA8yh"}
